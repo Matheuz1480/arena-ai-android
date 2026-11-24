@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Arena AI</string>
+    <string name="error_title">Couldn\'t load the page</string>
+    <string name="error_offline">Check your internet connection and try again.</string>
+    <string name="error_generic">Something went wrong while loading the page. Tap try again.</string>
+    <string name="retry">Try again</string>
+    <string name="download_started">Download started…</string>
+    <string name="downloading">Downloading file…</string>
+    <string name="link_error">Could not open the link</string>
+</resources>

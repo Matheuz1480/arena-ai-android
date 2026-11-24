@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Arena AI</string>
+    <string name="error_title">Não foi possível carregar</string>
+    <string name="error_offline">Verifique sua conexão com a internet e tente novamente.</string>
+    <string name="error_generic">Ocorreu um erro ao carregar a página. Toque em tentar novamente.</string>
+    <string name="retry">Tentar novamente</string>
+    <string name="download_started">Download iniciado…</string>
+    <string name="downloading">Baixando arquivo…</string>
+    <string name="link_error">Não foi possível abrir o link</string>
+</resources>

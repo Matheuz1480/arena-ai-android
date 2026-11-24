@@ -1,0 +1,22 @@
+# Build
+build/
+*.apk
+*.aab
+# ...mas inclui o APK de entrega no repositório
+!releases/*.apk
+
+# IDE
+.idea/
+*.iml
+local.properties
+
+# Cache do Gradle
+.gradle/
+
+# Keystore sensível (mantenha-o fora do controle de versão)
+keystore.properties
+*.jks
+*.keystore
+
+# Sistema
+.DS_Store

@@ -1,0 +1,10 @@
+<resources>
+    <color name="background">#0E0E13</color>
+    <color name="surface">#17171F</color>
+    <color name="accent">#7C6CF6</color>
+    <color name="on_accent">#FFFFFF</color>
+    <color name="text_primary">#F4F4F8</color>
+    <color name="text_secondary">#9C9CAC</color>
+    <color name="progress_track">#24242E</color>
+    <color name="ic_launcher_background">#141F45</color>
+</resources>
