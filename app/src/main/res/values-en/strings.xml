@@ -7,4 +7,25 @@
     <string name="download_started">Download started…</string>
     <string name="downloading">Downloading file…</string>
     <string name="link_error">Could not open the link</string>
+
+    <!-- Welcome screen -->
+    <string name="welcome_title">Arena AI</string>
+    <string name="welcome_subtitle">Search and chat with the best AI models, all in one place.</string>
+    <string name="welcome_guest_title">Continue as guest</string>
+    <string name="welcome_guest_desc">Anonymous mode, nothing is saved · %1$d sessions of %2$d minutes</string>
+    <string name="welcome_login_title">Log in / Sign up</string>
+    <string name="welcome_login_desc">Unlimited use after login</string>
+
+    <!-- Guest mode -->
+    <string name="guest_banner_label">Guest mode</string>
+    <string name="guest_time_left">⏱ %1$s</string>
+    <string name="btn_back_welcome">Exit</string>
+    <string name="session_expired_title">Your anonymous time is up</string>
+    <string name="session_expired_have_more">You used one %2$d-minute session. %1$d sessions left.\nLog in for unlimited use.</string>
+    <string name="session_expired_none">You used all %1$d anonymous sessions.\nLog in to keep using the app.</string>
+    <string name="btn_use_another_session">Use another session (%1$d left)</string>
+    <string name="btn_login_unlimited">Log in for unlimited use</string>
+    <string name="login_pending_hint">Finish logging in on the site, then tap below when done.</string>
+    <string name="btn_done_login">✓ I finished logging in</string>
+    <string name="login_confirmed">Login confirmed! Unlimited access 🎉</string>
 </resources>

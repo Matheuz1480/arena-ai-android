@@ -7,4 +7,25 @@
     <string name="download_started">Download iniciado…</string>
     <string name="downloading">Baixando arquivo…</string>
     <string name="link_error">Não foi possível abrir o link</string>
+
+    <!-- Tela inicial (escolha) -->
+    <string name="welcome_title">Arena AI</string>
+    <string name="welcome_subtitle">Pesquise e converse com os melhores modelos de IA, em um só lugar.</string>
+    <string name="welcome_guest_title">Continuar como convidado</string>
+    <string name="welcome_guest_desc">Modo anônimo, nada é salvo · %1$d sessões de %2$d minutos</string>
+    <string name="welcome_login_title">Entrar / Criar conta</string>
+    <string name="welcome_login_desc">Uso ilimitado após o login</string>
+
+    <!-- Modo convidado -->
+    <string name="guest_banner_label">Modo convidado</string>
+    <string name="guest_time_left">⏱ %1$s</string>
+    <string name="btn_back_welcome">Sair</string>
+    <string name="session_expired_title">Seu tempo anônimo acabou</string>
+    <string name="session_expired_have_more">Você usou uma sessão de %2$d minutos. Restam %1$d sessões.\nFaça login para uso ilimitado.</string>
+    <string name="session_expired_none">Você usou todas as %1$d sessões anônimas.\nFaça login para continuar usando o app.</string>
+    <string name="btn_use_another_session">Usar mais uma sessão (%1$d restantes)</string>
+    <string name="btn_login_unlimited">Entrar para uso ilimitado</string>
+    <string name="login_pending_hint">Conclua o login no site e toque abaixo quando terminar.</string>
+    <string name="btn_done_login">✓ Terminei o login</string>
+    <string name="login_confirmed">Login confirmado! Uso liberado 🎉</string>
 </resources>
